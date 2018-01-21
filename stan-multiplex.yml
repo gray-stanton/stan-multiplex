@@ -1,0 +1,7 @@
+name: stan-multiplex
+dependencies:
+        - python=3
+        - yaml
+        - numpy
+        - pandas
+        - paramiko
